@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - LowFish
+  - HighFish
+  - SchoolFish
+  - Object
+  - Bubble
+  - Sand
+  - Food
+  - Heart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - HighFish
+  - LowFish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 1578350759
+    locked: 0
+  - name: Background objects
+    uniqueID: 2889596521
+    locked: 0
+  - name: High fish
+    uniqueID: 585745435
+    locked: 0
+  - name: Small fish
+    uniqueID: 895264331
+    locked: 0
+  - name: Sand
+    uniqueID: 2910198253
+    locked: 0
+  - name: Middleground objects
+    uniqueID: 2261521845
+    locked: 0
+  - name: Foreground objects
+    uniqueID: 3799400201
+    locked: 0
+  - name: Low fish
+    uniqueID: 3044884339
+    locked: 0
+  - name: Touch items
+    uniqueID: 3263108885
+    locked: 0
